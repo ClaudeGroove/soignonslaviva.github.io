@@ -114,7 +114,7 @@ li {
     #hero {
             background-image: linear-gradient(rgba(0, 0, 0, 0.5),
                     rgba(0, 0, 0, 0.5)),
-                url(/Images/kaffeebart-OzRAelXHYHo-unsplash.jpg);
+                url(./Images/kaffeebart-OzRAelXHYHo-unsplash.jpg);
                 background-position: right;
                 background-size: cover;
    
